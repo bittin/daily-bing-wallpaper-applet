@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Daily Bing Wallpaper Applet
+Comment=An applet to daily update your desktop wallpaper with the newest Bing wallpaper
+Type=Application
+Icon=preferences-desktop-wallpaper-symbolic
+Exec=daily-bing-wallpaper-applet %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
+MimeType=
